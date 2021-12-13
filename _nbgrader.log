@@ -1,14 +1,14 @@
 [NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
 [NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
-[NotebookApp | INFO] Serving notebooks from local directory: /Users/dasgupta314/Dropbox/CLASSES/ds220x/4/notebooks/sentiment-logistic-regression
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/dasgupta314/Dropbox/CLASSES/ds220x/6/notebooks/perceptron_at_work
 [NotebookApp | INFO] 0 active kernels 
-[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=faff465374bd58a3607caf6699e46d387171f3e2cd526782
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=3e87b576661af1c741e66c592e9570d8d20d922a0340b8a1
 [NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
 [NotebookApp | CRITICAL] 
     
     Copy/paste this URL into your browser when you connect for the first time,
     to login with a token:
-        http://localhost:8888/?token=faff465374bd58a3607caf6699e46d387171f3e2cd526782
+        http://localhost:8888/?token=3e87b576661af1c741e66c592e9570d8d20d922a0340b8a1
 [NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
 [NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'addbefore/main' has duplicate listings in both '/Users/dasgupta314/anaconda/share/jupyter/nbextensions/addbefore/addbefore.yaml' and '/Users/dasgupta314/Library/Jupyter/nbextensions/addbefore/addbefore.yaml'
 [NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'autosavetime/main' has duplicate listings in both '/Users/dasgupta314/anaconda/share/jupyter/nbextensions/autosavetime/autosavetime.yaml' and '/Users/dasgupta314/Library/Jupyter/nbextensions/autosavetime/autosavetime.yaml'
@@ -69,55 +69,16 @@
 [NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'tree-filter/index' has duplicate listings in both '/Users/dasgupta314/anaconda/share/jupyter/nbextensions/tree-filter/tree-filter.yaml' and '/Users/dasgupta314/Library/Jupyter/nbextensions/tree-filter/tree-filter.yaml'
 [NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'varInspector/main' has duplicate listings in both '/Users/dasgupta314/anaconda/share/jupyter/nbextensions/varInspector/varInspector.yaml' and '/Users/dasgupta314/Library/Jupyter/nbextensions/varInspector/varInspector.yaml'
 [NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'zenmode/main' has duplicate listings in both '/Users/dasgupta314/anaconda/share/jupyter/nbextensions/zenmode/zenmode.yaml' and '/Users/dasgupta314/Library/Jupyter/nbextensions/zenmode/zenmode.yaml'
-[NotebookApp | WARNING] 404 GET /demo.gif (::1) 8.52ms referer=http://localhost:8888/tree
-[NotebookApp | WARNING] 404 GET /demo2.gif (::1) 1.38ms referer=http://localhost:8888/tree
-[NotebookApp | WARNING] 404 GET /demo_dark.png (::1) 1.45ms referer=http://localhost:8888/tree
-[NotebookApp | WARNING] 404 GET /image.png (::1) 1.40ms referer=http://localhost:8888/tree
-[NotebookApp | INFO] Kernel started: 876f86ed-d950-4fdb-b20b-c722b122410a
-[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_AMS-Regular.otf (::1) 2.98ms referer=http://localhost:8888/notebooks/experiments-misc.ipynb
-[NotebookApp | INFO] Saving file at /experiments-misc.ipynb
-[NotebookApp | INFO] Saving file at /experiments-misc.ipynb
-[NotebookApp | INFO] Saving file at /experiments-misc.ipynb
-[NotebookApp | INFO] Saving file at /experiments-misc.ipynb
-[NotebookApp | INFO] Saving file at /experiments-misc.ipynb
-[NotebookApp | INFO] Saving file at /experiments-misc.ipynb
-[NotebookApp | INFO] Saving file at /experiments-misc.ipynb
-[NotebookApp | INFO] Saving file at /experiments-misc.ipynb
-[NotebookApp | INFO] Saving file at /experiments-misc.ipynb
-[NotebookApp | INFO] Saving file at /experiments-misc.ipynb
-[NotebookApp | INFO] Saving file at /experiments-misc.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
-[NotebookApp | INFO] Saving file at /sentiment_logistic_regression.ipynb
+[NotebookApp | WARNING] 404 GET /demo.gif (::1) 8.46ms referer=http://localhost:8888/tree
+[NotebookApp | WARNING] 404 GET /demo2.gif (::1) 1.30ms referer=http://localhost:8888/tree
+[NotebookApp | WARNING] 404 GET /image.png (::1) 1.36ms referer=http://localhost:8888/tree
+[NotebookApp | WARNING] 404 GET /demo_dark.png (::1) 1.26ms referer=http://localhost:8888/tree
+[NotebookApp | WARNING] Notebook perceptron.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: db8d548a-3351-4539-8ea4-48286d7aa9e1
+[NotebookApp | INFO] Kernel restarted: db8d548a-3351-4539-8ea4-48286d7aa9e1
+[NotebookApp | INFO] Kernel restarted: db8d548a-3351-4539-8ea4-48286d7aa9e1
+[NotebookApp | INFO] Saving file at /perceptron_at_work.ipynb
 [NotebookApp | INFO] interrupted
 [NotebookApp | CRITICAL] Shutdown confirmed
 [NotebookApp | INFO] Shutting down kernels
-[NotebookApp | INFO] Kernel shutdown: 876f86ed-d950-4fdb-b20b-c722b122410a
+[NotebookApp | INFO] Kernel shutdown: db8d548a-3351-4539-8ea4-48286d7aa9e1
